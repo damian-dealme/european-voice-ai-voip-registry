@@ -41,7 +41,7 @@ Modern GTM execution is about layering **Voice Intelligence** and **AI Agents** 
 
 | Provider | 🤖 Autonomous Agents | 🎙️ Live Coaching | 📝 Auto-Notes | ⚡ Predictive Dialing | 🌍 Local Presence |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| **CloudTalk** | ❌ | ✅ | ✅ | ✅ | ✅ |
+| **CloudTalk** | ✅ (CeTe Agent) | ✅ | ✅ | ✅ | ✅ |
 | **PolyAI** | ✅ (Human-like) | ✅ | ✅ | ❌ | ✅ |
 | **Aircall** | ❌ | ✅ (One-click) | ✅ | ✅ | ✅ |
 | **Parloa** | ✅ (Enterprise) | ✅ | ✅ | ❌ | ✅ |
