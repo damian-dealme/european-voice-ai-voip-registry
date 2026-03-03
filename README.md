@@ -6,6 +6,10 @@ Modern GTM execution is about layering **Voice Intelligence** and **AI Agents** 
 
 ---
 
+<img width="1200" height="1200" alt="image" src="https://github.com/user-attachments/assets/03af4506-af41-40c2-99e9-fadd16ee6ee5" />
+<img width="1200" height="1200" alt="image" src="https://github.com/user-attachments/assets/03af4506-af41-40c2-99e9-fadd16ee6ee5" />
+
+
 ## 🛠️ Part 1: The Integration Map
 *Where to find the "pipes" to connect your revenue engine.*
 
