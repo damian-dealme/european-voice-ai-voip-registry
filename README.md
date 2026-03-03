@@ -6,8 +6,6 @@ Modern GTM execution is about layering **Voice Intelligence** and **AI Agents** 
 
 ---
 
-<img width="1200" height="1200" alt="image" src="https://github.com/user-attachments/assets/03af4506-af41-40c2-99e9-fadd16ee6ee5" />
-
 ## 🛠️ Part 1: The Integration Map
 *Where to find the "pipes" to connect your revenue engine.*
 
@@ -30,6 +28,10 @@ Modern GTM execution is about layering **Voice Intelligence** and **AI Agents** 
 | **Ringr.ai** | 🇪🇪 | [Blog](https://ringr.ai/blog) | [API Contact](https://ringr.ai/contact) | API Key |
 | **ConnexAI** | 🇬🇧 | [Support](https://connex.ai/support) | [API Portal](https://developer.connex.ai/) | API Key |
 | **XCALLY** | 🇮🇹 | [Manual](https://manual.xcally.com/) | [API Reference](https://manual.xcally.com/api) | API Key |
+
+---
+
+<img width="1200" height="1200" alt="image" src="https://github.com/user-attachments/assets/03af4506-af41-40c2-99e9-fadd16ee6ee5" />
 
 ---
 
